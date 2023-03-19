@@ -35,8 +35,8 @@ jobs:
         with:
           name: RB4toRB2-RIVALS-Xbox_songs
           path: |
-            RB4-to-RB2-RIVALS_RB2
+            RB4-to-RB2-RIVALS_RB2con
 
       - name: Remove RB4toRB2 RIVALS stfs
         run: |
-          rm RB4-to-RB2-RIVALS_RB2
+          rm RB4-to-RB2-RIVALS_RB2con
