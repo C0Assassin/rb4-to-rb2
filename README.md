@@ -4,16 +4,6 @@
 
 Welcome to the RB4 to RB2 repo.
 
-360 Pack CON files can be found in the Actions section of the repo: [Here](https://github.com/C0Assassin/RB4-to-RB2/actions)
-
-You can also download the latest 360 packs from the nightly.link (no login required): [Here](https://nightly.link/C0Assassin/RB4-to-RB2/workflows/build/main)
-
-PS3 On-Disc hardware compatible pack pkg can be found here: [Here](https://drive.google.com/file/d/1uJ09DkAEAcKA_stXZ0hx7vh5hRtpv6iY)
-
-PS3 Rivals hardware compatible pack pkg can be found here: [Here](https://drive.google.com/file/d/1fhBVi4tZvUoMGfdHbcTWFD2zRjhmJ-7n)
-
-PS3 DLC hardware compatible pack pkg can be found here: [Here](https://drive.google.com/file/d/1TWMtJNU-wvXZZce5rxKTWnKsOUnJFH3n)
-
 Instructions on how to pull properly are in the instructions.txt file.
 
 ## Dependencies
