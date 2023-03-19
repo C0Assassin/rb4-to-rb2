@@ -58,7 +58,7 @@ def build_packed_con_from_folder(folder_name):
                 with open(temp_song_path.joinpath("songs.dta"), "w") as oof:
                     oof.writelines(mega_song_dta)
 
-                onyx_pack_files_into_con(cwd.joinpath("tmp"), f"{song_folder.name}_RB2")
+                onyx_pack_files_into_con(cwd.joinpath("tmp"), f"{song_folder.name}_RB2con")
                 remove_tree(str(cwd.joinpath("tmp")))
 
 def main():
