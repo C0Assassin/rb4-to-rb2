@@ -29,9 +29,6 @@ jobs:
       - name: Build RB4toRB2 RIVALS packed CON
         run: |
           python dependencies/pack_single_cons.py RB4-to-RB2-RIVALS
-          ls
-          ls dependencies
-          ls RB4-to-RB2-RIVALS
       
       - name: Upload result
         uses: actions/upload-artifact@v2

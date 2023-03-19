@@ -11,7 +11,7 @@ def onyx_extract_con_files(con_name):
 
 def onyx_pack_files_into_con(folder_name, new_con_name):
     # cmd_pack = f"C:/Program Files/OnyxToolkit/onyx stfs {folder_name} --to {new_con_name} --game rb2".split()
-    cmd_pack = f"./dependencies/onyx-20230130-linux-x64.AppImage {folder_name} --to {new_con_name} --game rb2".split()
+    cmd_pack = f"./dependencies/onyx-20230130-linux-x64.AppImage stfs {folder_name} --to {new_con_name} --game rb2".split()
     subprocess.run(cmd_pack)
 
 def remove_spaces():
