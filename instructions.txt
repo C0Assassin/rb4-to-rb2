@@ -1,0 +1,32 @@
+Instructions on how to pull properly.
+
+Use GitHub desktop, it is by far the easiest method and it allows you to just click one button and get all the necessary
+DLC/updates straight to you with no hassle.
+Link: https://desktop.github.com/
+
+
+It will ask you to sign up to Github and sign in to the program, be sure to do that.
+
+When you're done with all that, hit the File tab on the top left and click the clone a repository button.
+A window will popup, with 3 tabs. Hit the URL tab.
+
+Insert this url: https://github.com/C0Assassin/RB4-to-RB2
+And be sure to choose ur local path; this is where it will constantly download updates to. I recommend making it where its
+easily accessible and has a decent amount of storage space. 
+
+Once done, it will clone the repo into ur local path directory. (This will take awhile with slow speeds)
+On the top left current repository list, you should be able to click RB4-to-RB2, and ensure that your current branch is on the 
+main branch.
+
+You can pull updates that get sent by hitting the "Fetch Origin" button on the top of the program.
+You can view the directory with "CTRL+SHIFT+F" or by hitting the middle "View in explorer" button in the center of the screen.
+
+The folders are there to allow you to choose what you wish to bring over to your USRDIR folder.
+Simply copy the folder (eg. RB4 DLC), and then paste the folder into ur RB1 USRDIR data folder in RPCS3's directory. 
+(Where all your DLC is kept)
+
+If it asks to overwrite anything, please do so. It is an update and sometimes older song fixes are uploaded.
+
+It should go in Rock Band 1s USRDIR folder. Its preferred that it be in Rock Band 1s as they are Rock Band 1 packages.
+BLUS30050 - Rock Band 1
+BLUS30147 - Rock Band 2
