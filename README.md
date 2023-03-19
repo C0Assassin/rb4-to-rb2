@@ -6,12 +6,6 @@ Welcome to the RB4 to RB2 repo.
 
 Instructions on how to pull properly are in the instructions.txt file.
 
-## Dependencies
-
-[Onyx Music Game Toolkit (CLI)](https://github.com/mtolly/onyxite-customs) - Used to automatically generate Xbox pack cons via github build actions
-
-[Swap RB Art Bytes (python)](https://github.com/PikminGuts92/re-notes/blob/master/scripts/swap_rb_art_bytes.py) - Used to automatically generate Xbox png_xbox album art via github build actions
-
 ## Disc Songs Completed (65/65):
 All Rock Band 4 disc songs are playable.
 
