@@ -49,13 +49,13 @@ def build_packed_con_from_folder(folder_name):
                     # in the *_extract/songs folder
                     for extracted in song_folder.joinpath(f"{song_con.name}_extract/songs").glob("*"):
                         if extracted.name == "songs.dta":
-                            mega_song_dta.extend([line for line in open(extracted, "r")])
+                            mega_song_dta.extend([line for line in open(extracted, "r", encoding="ISO-8859-1")])
                             mega_song_dta.append("\n")
                         elif extracted.is_dir():
                             copy_tree(str(extracted), str(temp_song_path.joinpath(extracted.name)))
                     remove_tree(str(song_folder.joinpath(f"{song_con.name}_extract")))
                     
-                with open(temp_song_path.joinpath("songs.dta"), "w") as oof:
+                with open(temp_song_path.joinpath("songs.dta"), "w", encoding="ISO-8859-1") as oof:
                     oof.writelines(mega_song_dta)
 
                 onyx_pack_files_into_con(cwd.joinpath("tmp"), f"{song_folder.name}_RB2con")
