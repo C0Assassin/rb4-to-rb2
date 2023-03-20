@@ -1,0 +1,163 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build_xbox_packs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Set up env
+        run: |
+          sudo apt-get install rename -y
+
+      - name: Set up Onyx
+        run: |
+          sudo apt install libfuse2
+          sudo apt install wget
+          sudo wget -P dependencies https://github.com/mtolly/onyxite-customs/releases/download/20230130/onyx-20230130-linux-x64.AppImage
+          sudo chmod a+x dependencies/onyx-20230130-linux-x64.AppImage
+          ./dependencies/onyx-20230130-linux-x64.AppImage --appimage-extract
+
+      ########################################################################
+
+      - name: Build RB4toRB2 DISC packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-DISC
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4toRB2-DISC-Xbox_songs
+          path: |
+            RB4-to-RB2-DISC_RB2con
+
+      - name: Remove RB4toRB2 DISC packed CON
+        run: |
+          rm RB4-to-RB2-DISC_RB2con
+
+      ########################################################################
+
+      - name: Build RB4toRB2 DISC2X packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-DISC2X
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4toRB2-DISC2X-Xbox_songs
+          path: |
+            RB4-to-RB2-DISC2X_RB2con
+
+      - name: Remove RB4toRB2 DISC2X packed CON
+        run: |
+          rm RB4-to-RB2-DISC2X_RB2con
+
+      ########################################################################
+
+      - name: Build RB4toRB2 DLC 1 packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-DLC-1
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4-to-RB2-DLC-1-Xbox_songs
+          path: |
+            RB4-to-RB2-DLC-1_RB2con
+
+      - name: Remove RB4toRB2 DLC 1 packed CON
+        run: |
+          rm RB4-to-RB2-DLC-1_RB2con
+
+      ########################################################################
+
+      - name: Build RB4toRB2 DLC 2 packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-DLC-2
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4-to-RB2-DLC-2-Xbox_songs
+          path: |
+            RB4-to-RB2-DLC-2_RB2con
+
+      - name: Remove RB4toRB2 DLC 2 packed CON
+        run: |
+          rm RB4-to-RB2-DLC-2_RB2con
+
+      ########################################################################
+
+      - name: Build RB4toRB2 DLC 2X packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-DLC2X
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4-to-RB2-DLC2X-Xbox_songs
+          path: |
+            RB4-to-RB2-DLC2X_RB2con
+
+      - name: Remove RB4toRB2 DLC 2X packed CON
+        run: |
+          rm RB4-to-RB2-DLC2X_RB2con
+
+      ########################################################################
+
+      - name: Build RB4toRB2 DLC RAD packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-DLCRAD
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4-to-RB2-DLCRAD-Xbox_songs
+          path: |
+            RB4-to-RB2-DLCRAD_RB2con
+
+      - name: Remove RB4toRB2 DLC RAD packed CON
+        run: |
+          rm RB4-to-RB2-DLCRAD_RB2con
+
+      ########################################################################
+
+      - name: Build RB4toRB2 RIVALS packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-RIVALS
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4toRB2-RIVALS-Xbox_songs
+          path: |
+            RB4-to-RB2-RIVALS_RB2con
+
+      - name: Remove RB4toRB2 RIVALS packed CON
+        run: |
+          rm RB4-to-RB2-RIVALS_RB2con
+
+      ########################################################################
+
+      - name: Build RB4toRB2 RIVALS 2X packed CON
+        run: |
+          python dependencies/pack_single_cons.py RB4-to-RB2-RIVALS2X
+      
+      - name: Upload result
+        uses: actions/upload-artifact@v2
+        with:
+          name: RB4toRB2-RIVALS2X-Xbox_songs
+          path: |
+            RB4-to-RB2-RIVALS2X_RB2con
+
+      - name: Remove RB4toRB2 RIVALS 2X packed CON
+        run: |
+          rm RB4-to-RB2-RIVALS2X_RB2con
