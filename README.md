@@ -143,6 +143,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Limp Bizkit - Rollin' (Air Raid Vehicle)
+*  Linkin Park - Given Up
 *  Linkin Park - Lying From You
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
