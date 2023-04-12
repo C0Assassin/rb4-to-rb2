@@ -82,6 +82,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Cyndi Lauper - Girls Just Want To Have Fun
 *  Cyndi Lauper - Time After Time
 *  Daft Punk ft. Pharrell Williams - Get Lucky
+*  Dance Gavin Dance - Prisoner
 *  Darius Rucker - Wagon Wheel
 *  Dee Gees - You Should Be Dancing
 *  Deee-Lite - Groove Is in the Heart
