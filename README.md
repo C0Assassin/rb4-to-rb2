@@ -58,7 +58,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Beck - Devils Haircut
 *  Belinda Carlisle - Heaven Is A Place On Earth
 *  Billy Joel - Uptown Girl
-*  Billy Squier - Lonely Is The Night @
+*  Billy Squier - Lonely Is The Night
 *  Black Eyed Peas, The - I Gotta Feeling
 *  Blue Öyster Cult - Burnin' for You
 *  Blue Swede - Hooked On A Feeling
@@ -173,6 +173,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Nirvana - The Man Who Sold the World (Live)
 *  Nita Strauss ft. David Draiman of Disturbed - Dead Inside
 *  Oasis - Champagne Supernova
+*  Of Mice & Men - Taste of Regret
 *  Of Mice & Men - Would You Still Be There
 *  Offspring, The - You're Gonna Go Far, Kid @
 *  Olivia Rodrigo - good 4 u %
