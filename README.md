@@ -219,6 +219,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Skid Row - I Remember You
 *  Slayer - Angel of Death
 *  Staind - Outside
+*  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
 *  Steppenwolf - Born to be Wild
 *  Stone Temple Pilots - Wicked Garden %
 *  Taking Back Sunday - A Decade Under the Influence
