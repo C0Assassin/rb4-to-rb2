@@ -184,6 +184,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Papa Roach - No Apologies
 *  Paramore - Ain't It Fun
 *  Paramore - Hard Times
+*  Paramore - This Is Why
 *  Peter Frampton - Show Me the Way (Live)
 *  Pierce the Veil - King For A Day (ft. Kellin Quinn)
 *  Pierce the Veil - Pass the Nirvana
