@@ -39,7 +39,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Aerosmith - Livin' On The Edge
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
-*  Alice Cooper - No More Mr. Nice Guy @
+*  Alice Cooper - No More Mr. Nice Guy
 *  Alice In Chains - Them Bones
 *  All Time Low - Dear Maria, Count Me In
 *  Asia - Heat Of The Moment
