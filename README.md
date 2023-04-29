@@ -220,6 +220,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Simple Plan & State Champs - Where I Belong feat. We The Kings
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
+*  Skid Row - The Gang's All Here
 *  Slayer - Angel of Death
 *  Staind - Outside
 *  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
