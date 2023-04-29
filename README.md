@@ -146,6 +146,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Limp Bizkit - Rollin' (Air Raid Vehicle)
 *  Linkin Park - Given Up
 *  Linkin Park - Lying From You
+*  Linkin Park - More the Victim
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
