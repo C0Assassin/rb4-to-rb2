@@ -260,3 +260,4 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Wheatus - Teenage Dirtbag (2020)
 *  Wild Cherry - Play That Funky Music
 *  Winger - Seventeen
+
