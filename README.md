@@ -119,6 +119,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Godsmack - Awake
 *  Goldfinger - Superman
 *  Goo Goo Dolls - Iris
+*  Halestorm - Uncomfortable
 *  Hall & Oates - You Make My Dreams
 *  Harry Chapin - Cat's in the Cradle
 *  Heart - Crazy on You
