@@ -143,6 +143,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Kenny Loggins - Danger Zone
 *  Killers, The - Caution
 *  Kings Of Leon - Use Somebody
+*  Kool & the Gang - Celebration
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Limp Bizkit - Rollin' (Air Raid Vehicle)
