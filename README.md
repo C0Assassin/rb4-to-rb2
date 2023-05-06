@@ -228,6 +228,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Slayer - Angel of Death
 *  Staind - Outside
 *  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
+*  Slipknot - The Devil In I
 *  Steppenwolf - Born to be Wild
 *  Stone Temple Pilots - Wicked Garden %
 *  Taking Back Sunday - A Decade Under the Influence
