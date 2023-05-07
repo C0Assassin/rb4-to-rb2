@@ -21,12 +21,6 @@ main branch.
 You can pull updates that get sent by hitting the "Fetch Origin" button on the top of the program.
 You can view the directory with "CTRL+SHIFT+F" or by hitting the middle "View in explorer" button in the center of the screen.
 
-The folders are there to allow you to choose what you wish to bring over to your USRDIR folder.
-Simply copy the folder (eg. RB4 DLC), and then paste the folder into ur RB1 USRDIR data folder in RPCS3's directory. 
-(Where all your DLC is kept)
+The CONs are individually sorted into large main folders like DISC songs, DLC-1, or DLC-2, etc. They are sorted as such so that they can be easily packed into a large CON pack either via Onyx or C3 Con Tools. (separate downloads)
 
-If it asks to overwrite anything, please do so. It is an update and sometimes older song fixes are uploaded.
-
-It should go in Rock Band 1s USRDIR folder. Its preferred that it be in Rock Band 1s as they are Rock Band 1 packages.
-BLUS30050 - Rock Band 1
-BLUS30147 - Rock Band 2
+For PS3 users or RPCS3 users, it is up to the end user (you), to convert these yourself for your own use. Use Onyx's "quick convert/pack" feature to convert these CONs into PKGs, that are useable in RPCS3/PS3. 
