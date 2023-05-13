@@ -235,6 +235,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Taking Back Sunday - Cute Without The 'E' (Cut From the Team)
 *  Ted Nugent - Stranglehold
 *  Teenage Wrist - Earth Is A Black Hole
+*  Temple of the Dog - Hunger Strike
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late @
 *  Tonic - If You Could Only See
