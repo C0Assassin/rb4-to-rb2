@@ -80,7 +80,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Coldplay - Paradise
 *  Cranberries, The - Zombie
 *  Creed - With Arms Wide Open
-*  Cure, The - Lovesong @
+*  Cure, The - Lovesong
 *  Cyndi Lauper - Girls Just Want To Have Fun
 *  Cyndi Lauper - Time After Time
 *  Daft Punk ft. Pharrell Williams - Get Lucky
@@ -170,6 +170,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Muse - Knights of Cydonia
 *  Muse - Starlight
 *  Muse - Won't Stand Down
+*  My Chemical Romance - Famous Last Words
 *  My Chemical Romance - The Foundations of Decay
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
