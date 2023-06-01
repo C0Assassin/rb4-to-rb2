@@ -28,6 +28,7 @@ Current progress of Rivals songs.
 
 ## RB4 DLC:
 The following DLC is available too: (@ = Recreation chart) (% = real midi/recreational animations, mogg, and/or lipsync)
+(An Ultimate CON is still a RB1/2 CON file, but will still load keys or pro instruments when loaded into RB3.)
 *  Ace of Base - The Sign
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
@@ -80,7 +81,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Coldplay - Paradise
 *  Cranberries, The - Zombie
 *  Creed - With Arms Wide Open
-*  Cure, The - Lovesong
+*  Cure, The - Lovesong (Ultimate CON available)
 *  Cyndi Lauper - Girls Just Want To Have Fun
 *  Cyndi Lauper - Time After Time
 *  Daft Punk ft. Pharrell Williams - Get Lucky
