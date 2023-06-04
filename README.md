@@ -47,6 +47,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Asia - Heat Of The Moment
 *  Audioslave - Like A Stone
 *  Avenged Sevenfold - God Damn
+*  Avenged Sevenfold - Nobody
 *  Avenged Sevenfold - The Stage (2x option available)
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
