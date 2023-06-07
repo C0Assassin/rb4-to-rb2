@@ -142,6 +142,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
 *  Jefferson Starship - Jane
 *  Joan Jett and the Blackhearts - I Hate Myself For Loving You %
+*  Joesef - It's Been a Little Heavy Lately
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
 *  Kenny Loggins - Danger Zone
