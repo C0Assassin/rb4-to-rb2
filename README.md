@@ -110,6 +110,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Elton John - Dua Lipa - Cold Heart (PNAU Remix)
 *  Fall of Troy, The - F.C.P.R.E.M.I.X.
 *  Falling In Reverse - Popular Monster
+*  Falling In Reverse - Voices In My Head
 *  Five Finger Death Punch - Wrong Side Of Heaven
 *  Foghat - Slow Ride
 *  Fountains of Wayne - Stacy's Mom
