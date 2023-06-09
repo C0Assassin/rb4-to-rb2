@@ -149,6 +149,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Killers, The - Caution
 *  Kings Of Leon - Use Somebody
 *  Kool & the Gang - Celebration
+*  Legitimate Front - She
 *  Lifehouse - Hanging By A Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Limp Bizkit - Rollin' (Air Raid Vehicle)
