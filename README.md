@@ -52,6 +52,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Avril Lavigne - Complicated
 *  Avril Lavigne - My Happy Ending
 *  Avril Lavigne - Sk8er Boi
+*  AWOLNATION - Cannonball
 *  BØRNS - Electric Love
 *  BABYMETAL - Gimme Chocolate!!
 *  BABYMETAL - Starlight
