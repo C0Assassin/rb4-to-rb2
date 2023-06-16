@@ -128,7 +128,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Hall & Oates - You Make My Dreams
 *  Harry Chapin - Cat's in the Cradle
 *  Heart - Crazy on You
-*  Heart - Magic Man @
+*  Heart - Magic Man
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
 *  Hozier - Take Me To Church %
