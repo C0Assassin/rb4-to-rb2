@@ -4,6 +4,7 @@
 
 Welcome to the RB4 to RB2 repo.
 
+DO NOT USE ONYX ON THESE FOR ANYTHING UNLESS YOU ARE CONVERTING TO PS3. THEY WILL WORK ON RB3/RB2/RB1.
 Instructions on how to pull properly are in the instructions.txt file.
 
 ## Disc Songs Completed (65/65):
@@ -131,7 +132,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Heart - Magic Man
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
-*  Hozier - Take Me To Church %
+*  Hozier - Take Me To Church
 *  Imagine Dragons - Believer
 *  Imagine Dragons - Follow You
 *  Imagine Dragons - Radioactive
