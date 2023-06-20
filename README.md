@@ -140,8 +140,9 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Incubus - Stellar
 *  Jane's Addiction - Stop!
 *  Jason Mraz - I'm Yours
+*  Jeff Williams ft. Casey Lee Williams - The Triumph
 *  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
-*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye @
+*  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye
 *  Jefferson Starship - Jane
 *  Joan Jett and the Blackhearts - I Hate Myself For Loving You %
 *  Joesef - It's Been a Little Heavy Lately
