@@ -159,6 +159,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Linkin Park - Given Up
 *  Linkin Park - Lying From You
 *  Linkin Park - More the Victim
+*  Little Nell, Patricia Quinn & Richard O'Brien - Time Warp
 *  Lizzo - Juice
 *  LMFAO - Party Rock Anthem
 *  Los Lobos - La Bamba
