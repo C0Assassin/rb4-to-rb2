@@ -171,6 +171,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Masked Wolf - Astronaut In The Ocean
 *  Matchbox Twenty - 3AM
 *  Matchbox Twenty - Unwell
+*  Megadeth - Dystopia
 *  Megadeth - Trust
 *  Meghan Trainor - All About That Bass
 *  Meredith Brooks - Bitch
