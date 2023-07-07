@@ -30,6 +30,7 @@ Current progress of Rivals songs.
 ## RB4 DLC:
 The following DLC is available too: (@ = Recreation chart) (% = real midi/recreational animations, mogg, and/or lipsync)
 (An Ultimate CON is still a RB1/2 CON file, but will still load keys or pro instruments when loaded into RB3.)
+*  AC/DC - Shot In The Dark
 *  Ace of Base - The Sign
 *  Aerosmith - Angel
 *  Aerosmith - Crazy
