@@ -177,9 +177,9 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Meredith Brooks - Bitch
 *  MGMT - Kids
 *  Michelle Branch - All You Wanted
-*  Muse - Knights of Cydonia
-*  Muse - Starlight
-*  Muse - Won't Stand Down
+*  Muse - Knights of Cydonia (Ultimate CON available)
+*  Muse - Starlight (Ultimate CON available)
+*  Muse - Won't Stand Down (Ultimate CON available)
 *  My Chemical Romance - Famous Last Words
 *  My Chemical Romance - The Foundations of Decay
 *  Natalie Imbruglia - Torn
