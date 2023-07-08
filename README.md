@@ -244,6 +244,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
 *  Stevie Ray Vaughan and Double Trouble - Crossfire
 *  Slipknot - The Devil In I
+*  Steely Dan - Peg
 *  Steppenwolf - Born to be Wild
 *  Stone Temple Pilots - Wicked Garden %
 *  Taking Back Sunday - A Decade Under the Influence
