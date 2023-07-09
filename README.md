@@ -245,6 +245,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Stevie Ray Vaughan and Double Trouble - Crossfire
 *  Slipknot - The Devil In I
 *  Steely Dan - Peg
+*  Steely Dan - Reelin' In the Years
 *  Steppenwolf - Born to be Wild
 *  Stone Temple Pilots - Wicked Garden %
 *  Taking Back Sunday - A Decade Under the Influence
