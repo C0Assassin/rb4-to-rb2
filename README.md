@@ -255,7 +255,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Teenage Wrist - Earth Is A Black Hole
 *  Temple of the Dog - Hunger Strike
 *  Third Eye Blind - Jumper
-*  Three Days Grace - Never Too Late @
+*  Three Days Grace - Never Too Late
 *  Tonic - If You Could Only See
 *  Toto - Africa
 *  Toto - Hold The Line
