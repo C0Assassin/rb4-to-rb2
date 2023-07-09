@@ -85,6 +85,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Chuck Berry - Johnny B. Goode
 *  Coheed and Cambria - The Liars Club
 *  Coldplay - Paradise
+*  Cramps, The - Goo Goo Muck
 *  Cranberries, The - Zombie
 *  Creed - With Arms Wide Open
 *  Cure, The - Lovesong (Ultimate CON available)
