@@ -272,7 +272,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Vanilla Ice - Ice Ice Baby
 *  Veruca Salt - Seether @
 *  Walk The Moon - Shut Up and Dance
-*  Warrant - Cherry Pie %
+*  Warrant - Cherry Pie
 *  Weeknd, The - Blinding Lights
 *  Weeknd, The - Can't Feel My Face
 *  Weeknd, The ft. Daft Punk - Starboy
