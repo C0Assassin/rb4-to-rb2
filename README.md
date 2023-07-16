@@ -186,6 +186,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Muse - Won't Stand Down (Ultimate CON available)
 *  My Chemical Romance - Famous Last Words
 *  My Chemical Romance - The Foundations of Decay
+*  Naked Eyes - Always Something There to Remind Me
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
 *  Nickelback - The Devil Went Down To Georgia
