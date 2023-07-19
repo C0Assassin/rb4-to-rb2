@@ -199,7 +199,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Of Mice & Men - Taste of Regret
 *  Of Mice & Men - Would You Still Be There
 *  Of Monsters and Men - Mountain Sound
-*  Offspring, The - You're Gonna Go Far, Kid @
+*  Offspring, The - You're Gonna Go Far, Kid
 *  Olivia Rodrigo - good 4 u %
 *  One Direction - Story of My Life
 *  Opeth - Heir Apparent
