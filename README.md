@@ -47,6 +47,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Aerosmith - Rag Doll
 *  Alice Cooper - No More Mr. Nice Guy
 *  Alice In Chains - Them Bones
+*  Alkaline Trio - Mercy Me
 *  All That Remains - Divide
 *  All That Remains - What If I Was Nothing
 *  All Time Low - Dear Maria, Count Me In
