@@ -45,6 +45,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Aerosmith - Livin' On The Edge
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
+*  AJR - Way Less Sad
 *  Alice Cooper - No More Mr. Nice Guy
 *  Alice In Chains - Them Bones
 *  Alkaline Trio - Mercy Me
