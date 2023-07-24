@@ -100,6 +100,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Darius Rucker - Wagon Wheel
 *  Dee Gees - You Should Be Dancing
 *  Deee-Lite - Groove Is in the Heart
+*  Demi Lovato - Sorry Not Sorry
 *  Depeche Mode - Enjoy the Silence
 *  Depeche Mode - People Are People
 *  Dexys Midnight Runners - Come On Eileen
