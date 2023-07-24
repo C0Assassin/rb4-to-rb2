@@ -158,6 +158,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
 *  Kenny Loggins - Danger Zone
+*  KennyHoopla ft. Travis Barker - estella//
 *  Killers, The - Caution
 *  Kings Of Leon - Use Somebody
 *  Kool & the Gang - Celebration
