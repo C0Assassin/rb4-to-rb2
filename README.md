@@ -92,6 +92,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Cramps, The - Goo Goo Muck
 *  Cranberries, The - Zombie
 *  Creed - With Arms Wide Open
+*  Culture Club - Karma Chameleon
 *  Cure, The - Lovesong (Ultimate CON available)
 *  Cyndi Lauper - Girls Just Want To Have Fun
 *  Cyndi Lauper - Time After Time
