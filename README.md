@@ -221,6 +221,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Player - Baby Come Back
 *  Portugal. The Man - Live In The Moment
 *  Post Malone - Circles
+*  Proclaimers, The - I'm Gonna Be (500 Miles)
 *  Public Enemy ft. Anthrax - Bring tha Noize
 *  Radiohead - Karma Police
 *  Ram Jam - Black Betty (2x option available)
