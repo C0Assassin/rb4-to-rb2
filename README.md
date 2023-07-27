@@ -86,6 +86,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Bush - Glycerine
 *  Capital Cities - Safe and Sound
 *  Chainsmokers, The ft. Halsey - Closer
+*  Chainsmokers, The & Coldplay - Something Just Like This
 *  Chuck Berry - Johnny B. Goode
 *  Coheed and Cambria - The Liars Club
 *  Coldplay - Paradise
