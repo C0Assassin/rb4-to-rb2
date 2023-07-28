@@ -209,6 +209,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Of Monsters and Men - Mountain Sound
 *  Offspring, The - You're Gonna Go Far, Kid
 *  Oh Honey - Sugar, You
+*  Olivia Rodrigo - brutal
 *  Olivia Rodrigo - good 4 u %
 *  One Direction - Story of My Life
 *  Opeth - Heir Apparent
