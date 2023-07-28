@@ -270,6 +270,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Temple of the Dog - Hunger Strike
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
+*  Tom Petty & The Heartbreakers - Don't Do Me Like That
 *  Tonic - If You Could Only See
 *  Toto - Africa
 *  Toto - Hold The Line
