@@ -295,6 +295,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Weeknd, The - The Hills
 *  Weezer - Africa
 *  Weezer - The End of the Game
+*  Whitney Houston - I Wanna Dance With Somebody (Who Loves Me)
 *  Wheatus - Teenage Dirtbag (2020)
 *  Wild Cherry - Play That Funky Music
 *  Winger - Seventeen
