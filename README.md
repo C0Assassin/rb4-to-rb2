@@ -132,6 +132,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
 *  Ghost - Cirice
+*  Ghost - Mary on a Cross
 *  Ghost - Rats
 *  Glass Animals - Heat Waves
 *  Godsmack - Awake
