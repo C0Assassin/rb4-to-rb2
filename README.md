@@ -201,6 +201,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Naked Eyes - Always Something There to Remind Me
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
+*  Newfane - Don't Let Her Go
 *  Nickelback - The Devil Went Down To Georgia
 *  Nine Days - Absolutely (Story Of A Girl)
 *  Nirvana - The Man Who Sold the World (Live)
