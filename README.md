@@ -225,6 +225,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Peter Frampton - Show Me the Way (Live)
 *  Pierce the Veil - King For A Day (ft. Kellin Quinn)
 *  Pierce the Veil - Pass the Nirvana
+*  Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Big Rig
 *  Player - Baby Come Back
 *  Portugal. The Man - Live In The Moment
 *  Post Malone - Circles
