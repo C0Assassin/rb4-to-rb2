@@ -70,6 +70,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Beastie Boys - Fight for Your Right
 *  Beck - Devils Haircut
 *  Belinda Carlisle - Heaven Is A Place On Earth
+*  Billie Joe Armstrong - I Think We're Alone Now
 *  Billy Joel - Uptown Girl
 *  Billy Squier - Lonely Is The Night
 *  Black Eyed Peas, The - I Gotta Feeling
