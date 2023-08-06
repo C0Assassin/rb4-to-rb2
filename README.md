@@ -148,6 +148,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
 *  Hozier - Take Me To Church
+*  I Prevail - Bad Things
 *  Imagine Dragons - Believer
 *  Imagine Dragons - Follow You
 *  Imagine Dragons - Radioactive
