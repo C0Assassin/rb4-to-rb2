@@ -276,7 +276,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Temple of the Dog - Hunger Strike
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
-*  Tom Petty & The Heartbreakers - Don't Do Me Like That
+*  Tom Petty and the Heartbreakers - Don't Do Me Like That
 *  Tonic - If You Could Only See
 *  Toto - Africa
 *  Toto - Hold The Line
@@ -300,6 +300,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Weeknd, The ft. Daft Punk - Starboy
 *  Weeknd, The - The Hills
 *  Weezer - Africa
+*  Weezer - Dope Nose
 *  Weezer - The End of the Game
 *  Whitney Houston - I Wanna Dance With Somebody (Who Loves Me)
 *  Wheatus - Teenage Dirtbag (2020)
