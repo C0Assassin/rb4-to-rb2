@@ -261,6 +261,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
 *  Skid Row - The Gang's All Here
+*  Skillet - Feel Invincible
 *  Slayer - Angel of Death
 *  Staind - Outside
 *  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
