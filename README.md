@@ -204,6 +204,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Naked Eyes - Always Something There to Remind Me
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
+*  New Found Glory - All Downhill From Here
 *  Newfane - Don't Let Her Go
 *  Nickelback - The Devil Went Down To Georgia
 *  Nine Days - Absolutely (Story Of A Girl)
