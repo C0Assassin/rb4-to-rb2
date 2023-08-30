@@ -46,6 +46,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
 *  AJR - Way Less Sad
+*  Alice Cooper - Feed My Frankenstein
 *  Alice Cooper - No More Mr. Nice Guy
 *  Alice In Chains - Them Bones
 *  Alkaline Trio - Mercy Me
