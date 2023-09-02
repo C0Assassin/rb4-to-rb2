@@ -77,6 +77,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Black Eyed Peas, The - I Gotta Feeling
 *  Blue Öyster Cult - Burnin' for You
 *  Blue Swede - Hooked On A Feeling
+*  Bravery, The - Believe
 *  Breaking Benjamin - Failure
 *  Breaking Benjamin - Torn In Two
 *  Breaking Benjamin - Tourniquet
