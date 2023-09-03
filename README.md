@@ -222,6 +222,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Olivia Rodrigo - brutal
 *  Olivia Rodrigo - good 4 u %
 *  One Direction - Story of My Life
+*  OneRepublic - Counting Stars
 *  Opeth - Heir Apparent
 *  Outkast - Hey Ya!
 *  Pantera - Cowboys From Hell (Live) %
