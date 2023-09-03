@@ -298,6 +298,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Van Halen - Hot for Teacher (2x option available)
 *  Van Halen - Runnin' with the Devil
 *  Van Halen - Unchained
+*  Vance Joy - Riptide
 *  Vanilla Ice - Ice Ice Baby
 *  Veruca Salt - Seether
 *  Walk The Moon - Shut Up and Dance
