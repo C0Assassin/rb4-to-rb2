@@ -75,6 +75,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Billy Joel - Uptown Girl
 *  Billy Squier - Lonely Is The Night
 *  Black Eyed Peas, The - I Gotta Feeling
+*  Blastergun - Bombs Away
 *  Blue Öyster Cult - Burnin' for You
 *  Blue Swede - Hooked On A Feeling
 *  Bravery, The - Believe
