@@ -252,6 +252,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Romantics, The - What I Like About You
 *  Rupert Holmes - Escape (The Piña Colada Song)
 *  Rush - Freewill (Vault Edition)
+*  Sam Hunt - Body Like A Back Road
 *  Sammy Hagar - I Can't Drive 55
 *  Scorpions - Rock You Like a Hurricane
 *  Seether ft. Amy Lee - Broken
