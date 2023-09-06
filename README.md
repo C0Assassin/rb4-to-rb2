@@ -169,6 +169,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Joesef - It's Been a Little Heavy Lately
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
+*  Katy Perry - Waking Up In Vegas
 *  Kenny Loggins - Danger Zone
 *  KennyHoopla ft. Travis Barker - estella//
 *  Killers, The - Caution
