@@ -70,6 +70,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Bad Omens - Just Pretend
 *  Beastie Boys - Fight for Your Right
 *  Beck - Devils Haircut
+*  BEGINNERS - Goodbye, Good Luck
 *  Belinda Carlisle - Heaven Is A Place On Earth
 *  Billie Joe Armstrong - I Think We're Alone Now
 *  Billy Joel - Uptown Girl
