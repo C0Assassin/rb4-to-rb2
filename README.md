@@ -273,6 +273,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Skid Row - The Gang's All Here
 *  Skillet - Feel Invincible
 *  Slayer - Angel of Death
+*  Sleep Token - The Summoning
 *  Staind - Outside
 *  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
 *  Stevie Ray Vaughan and Double Trouble - Crossfire
