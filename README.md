@@ -45,6 +45,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Aerosmith - Livin' On The Edge
 *  Aerosmith - Love In An Elevator
 *  Aerosmith - Rag Doll
+*  Aerosmith - Rats in the Cellar
 *  Aerosmith - Seasons of Wither
 *  AJR - Way Less Sad
 *  Alice Cooper - Feed My Frankenstein
