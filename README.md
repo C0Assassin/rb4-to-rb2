@@ -79,6 +79,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Billy Squier - Lonely Is The Night
 *  Black Eyed Peas, The - I Gotta Feeling
 *  Blastergun - Bombs Away
+*  Blink-182 - Anthem Part Two
 *  Blue Öyster Cult - Burnin' for You
 *  Blue Swede - Hooked On A Feeling
 *  Bravery, The - Believe
