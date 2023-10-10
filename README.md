@@ -278,10 +278,11 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  Skillet - Feel Invincible
 *  Slayer - Angel of Death
 *  Sleep Token - The Summoning
-*  Staind - Outside
 *  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
-*  Stevie Ray Vaughan and Double Trouble - Crossfire
 *  Slipknot - The Devil In I
+*  Spiritbox - Secret Garden
+*  Staind - Outside
+*  Stevie Ray Vaughan and Double Trouble - Crossfire
 *  Steely Dan - Peg
 *  Steely Dan - Reelin' In the Years
 *  Stephen Sanchez - Until I Found You
