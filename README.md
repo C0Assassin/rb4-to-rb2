@@ -68,6 +68,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  BØRNS - Electric Love
 *  BABYMETAL - Gimme Chocolate!!
 *  BABYMETAL - Starlight
+*  Bachman-Turner Overdrive - Takin' Care Of Business
 *  Bad Company - Bad Company
 *  Bad Omens - Just Pretend
 *  Beastie Boys - Fight for Your Right
