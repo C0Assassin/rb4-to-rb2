@@ -55,6 +55,7 @@ The following DLC is available too: (@ = Recreation chart) (% = real midi/recrea
 *  All That Remains - Divide
 *  All That Remains - What If I Was Nothing
 *  All Time Low - Dear Maria, Count Me In
+*  Aretha Franklin - Respect
 *  Architects - when we were young
 *  Asia - Heat Of The Moment
 *  Audioslave - Like A Stone
