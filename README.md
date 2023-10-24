@@ -5,6 +5,8 @@
 Welcome to the RB4 to RB2 repo.
 
 DO NOT USE ONYX ON THESE FOR ANYTHING UNLESS YOU ARE CONVERTING TO PS3. THEY WILL WORK ON RB3/RB2/RB1.
+Instructions on how to convert properly with Onyx are in the Onyx.txt file.
+
 Instructions on how to pull properly are in the instructions.txt file.
 
 ## Disc Songs Completed (65/65):

@@ -1,0 +1,21 @@
+How to use Onyx 101: How to convert to PS3
+
+@@@ Setup @@@
+Download Onyx from: https://github.com/mtolly/onyx
+Install Onyx
+@@@	  @@@
+
+Open Onyx and press the yellow quick convert/pack button.
+DO NOT CLICK ANY OF THE BOXES ON THE RIGHT!
+Near the bottom, click the middle gray dropdown box that has "Transform in place: Replace input..." in it.
+Select "Make Packs: Combine songs..." from the dropdown options.
+To the bottom left there is a smaller dropdown box that says CON (360), click that.
+Select "PKG (PS3)" from the dropdown options.
+Leave 'Encrypt mid.edat' checked, Leave Max Pack Size at 4000MBs. (this is a real limit with filesizes on the consoles)
+The last gray button says "Combine into one new...", you can either leave it up to Onyx to name your subdirectory or you can name it yourself with the "Custom USRDIR" function. (Do not choose "Each song gets a new...")
+- A custom USRDIR name is only really beneficial for RPCS3 users.
+You can now drag your CON(s) into the white space in Onyx. (Or click the 'Add Rock Band song' button)
+Once done, you can click the green Make Pack button towards the button.
+Give the PKG file a filename and navigate to a folder of your choice, and save.
+The PKG will be in that folder. 
+Drag the PKG into RPCS3's main screen to install the DLC, or use a PKG installer for PS3 consoles.
