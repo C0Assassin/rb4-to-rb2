@@ -30,7 +30,7 @@ Current progress of Rivals songs.
 *  Worshipper - Black Corridor
 
 ## RB4 DLC:
-The following DLC is available too: (@ = Recreation chart) (% = real midi/recreational animations, mogg, and/or lipsync)
+The following DLC is available too: (% = recreational animations, mogg, and/or lipsync)
 (An Ultimate CON is still a RB1/2 CON file, but will still load keys or pro instruments when loaded into RB3.)
 
 *  "Weird Al" Yankovic - My Own Eyes
