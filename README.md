@@ -145,6 +145,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Fratellis, The - Chelsea Dagger
 *  Fuel - Hemorrhage (In My Hands)
 *  Generation X - Dancing with Myself
+*  Gerry Rafferty - Baker Street
 *  Ghost - Cirice
 *  Ghost - Mary on a Cross
 *  Ghost - Rats
