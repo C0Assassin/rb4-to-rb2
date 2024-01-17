@@ -74,6 +74,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Bachman-Turner Overdrive - Takin' Care Of Business
 *  Bad Company - Bad Company
 *  Bad Omens - Just Pretend
+*  Bastille - Pompeii
 *  Beastie Boys - Fight for Your Right
 *  Beck - Devils Haircut
 *  BEGINNERS - Goodbye, Good Luck
