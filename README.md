@@ -202,6 +202,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Machine Gun Kelly - bloody valentine
 *  Macklemore & Ryan Lewis ft. Ray Dalton - Can't Hold Us
 *  Magic! - Rude
+*  Magnolia Park - Radio Reject
 *  Maroon 5 - Maps
 *  Mastodon - High Road
 *  Masked Wolf - Astronaut In The Ocean
