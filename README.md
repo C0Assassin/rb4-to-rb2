@@ -136,6 +136,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Ed Sheeran - Sing
 *  Elle King - Ex's & Oh's
 *  Elton John - Dua Lipa - Cold Heart (PNAU Remix)
+*  Elton John - Goodbye Yellow Brick Road
 *  Fall of Troy, The - F.C.P.R.E.M.I.X.
 *  Fall Out Boy - My Songs Know What You Did in the Dark (Light Em Up)
 *  Falling In Reverse - Popular Monster
