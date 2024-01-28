@@ -43,16 +43,16 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Aerosmith - Dude (Looks Like a Lady)
 *  Aerosmith - Eat the Rich
 *  Aerosmith - I Don't Want to Miss a Thing
-*  Aerosmith - Janie's Got A Gun
-*  Aerosmith - Livin' On The Edge
-*  Aerosmith - Love In An Elevator
+*  Aerosmith - Janie's Got a Gun
+*  Aerosmith - Livin' on the Edge
+*  Aerosmith - Love in An Elevator
 *  Aerosmith - Rag Doll
 *  Aerosmith - Rats in the Cellar
 *  Aerosmith - Seasons of Wither
 *  AJR - Way Less Sad
 *  Alice Cooper - Feed My Frankenstein
 *  Alice Cooper - No More Mr. Nice Guy
-*  Alice In Chains - Them Bones
+*  Alice in Chains - Them Bones
 *  Alkaline Trio - Mercy Me
 *  All That Remains - Divide
 *  All That Remains - What If I Was Nothing
@@ -71,28 +71,27 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  BØRNS - Electric Love
 *  BABYMETAL - Gimme Chocolate!!
 *  BABYMETAL - Starlight
-*  Bachman-Turner Overdrive - Takin' Care Of Business
+*  Bachman-Turner Overdrive - Takin' Care of Business
 *  Bad Company - Bad Company
 *  Bad Omens - Just Pretend
 *  Bastille - Pompeii
 *  Beastie Boys - Fight for Your Right
 *  Beck - Devils Haircut
 *  BEGINNERS - Goodbye, Good Luck
-*  Belinda Carlisle - Heaven Is A Place On Earth
+*  Belinda Carlisle - Heaven Is a Place on Earth
 *  Billie Joe Armstrong - I Think We're Alone Now
 *  Billy Joel - Uptown Girl
-*  Billy Squier - Lonely Is The Night
+*  Billy Squier - Lonely Is the Night
 *  Black Eyed Peas, The - I Gotta Feeling
 *  Blastergun - Bombs Away
 *  Blink-182 - Anthem Part Two
 *  Blue Öyster Cult - Burnin' for You
-*  Blue Swede - Hooked On A Feeling
+*  Blue Swede - Hooked on a Feeling
 *  Bravery, The - Believe
 *  Breaking Benjamin - Failure
 *  Breaking Benjamin - Torn In Two
 *  Breaking Benjamin - Tourniquet
-*  Breaking Benjamin ft. Scooter Ward of COLD - Far Away
-*  Brian Setzer - Rock This Town
+*  Breaking Benjamin ft. Scooter Ward - Far Away
 *  Bring Me The Horizon - Drown
 *  Bring Me The Horizon - Throne
 *  Bruno Mars - 24k Magic
@@ -110,7 +109,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Creed - With Arms Wide Open
 *  Culture Club - Karma Chameleon
 *  Cure, The - Lovesong (Ultimate CON available)
-*  Cyndi Lauper - Girls Just Want To Have Fun
+*  Cyndi Lauper - Girls Just Want to Have Fun
 *  Cyndi Lauper - Time After Time
 *  Daft Punk ft. Pharrell Williams - Get Lucky
 *  Dance Gavin Dance - Prisoner
@@ -127,7 +126,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Disturbed - The Vengeful One
 *  DNCE - Cake By The Ocean
 *  Dolly Spartans - I Hear the Dead
-*  DragonForce - Highway To Oblivion
+*  DragonForce - Highway to Oblivion
 *  DragonForce - Through the Fire and Flames (RB4 chart)
 *  Dream Theater - Pull Me Under
 *  Duran Duran - The Reflex
@@ -139,8 +138,8 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Elton John - Goodbye Yellow Brick Road
 *  Fall of Troy, The - F.C.P.R.E.M.I.X.
 *  Fall Out Boy - My Songs Know What You Did in the Dark (Light Em Up)
-*  Falling In Reverse - Popular Monster
-*  Falling In Reverse - Voices In My Head
+*  Falling in Reverse - Popular Monster
+*  Falling in Reverse - Voices in My Head
 *  Five Finger Death Punch - Wrong Side Of Heaven
 *  Foghat - Slow Ride
 *  Fountains of Wayne - Stacy's Mom
@@ -163,7 +162,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Heart - Magic Man
 *  Hinder - Lips of an Angel
 *  Hoobastank - The Reason
-*  Hozier - Take Me To Church
+*  Hozier - Take Me to Church
 *  I Prevail - Bad Things
 *  Imagine Dragons - Believer
 *  Imagine Dragons - Follow You
@@ -173,26 +172,26 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Jane's Addiction - Stop!
 *  Jason Mraz - I'm Yours
 *  Jeff Williams ft. Casey Lee Williams - The Triumph
-*  Jeff Williams ft. Casey Lee Williams - This Will Be The Day
+*  Jeff Williams ft. Casey Lee Williams - This Will Be the Day
 *  Jeff Williams ft. Casey Lee Williams - Time to Say Goodbye
 *  Jefferson Starship - Jane
-*  Joan Jett & the Blackhearts - I Hate Myself For Loving You
+*  Joan Jett & the Blackhearts - I Hate Myself for Loving You
 *  Joe "Bean" Esposito - You're the Best
 *  Joesef - It's Been a Little Heavy Lately
 *  John Denver - Take Me Home, Country Roads
 *  Justin Bieber - Love Yourself
-*  Katy Perry - Waking Up In Vegas
+*  Katy Perry - Waking Up in Vegas
 *  Kenny Loggins - Danger Zone
 *  KennyHoopla ft. Travis Barker - estella//
 *  Killers, The - Caution
 *  Kings Of Leon - Use Somebody
 *  Kool & the Gang - Celebration
 *  Legitimate Front - She
-*  Lifehouse - Hanging By A Moment
+*  Lifehouse - Hanging by a Moment
 *  Lil Nas X ft. Billy Ray Cyrus - Old Town Road (Remix)
 *  Limp Bizkit - Rollin' (Air Raid Vehicle)
 *  Linkin Park - Given Up
-*  Linkin Park - Lying From You
+*  Linkin Park - Lying from You
 *  Linkin Park - More the Victim
 *  Lita Ford - Kiss Me Deadly
 *  Little Nell, Patricia Quinn & Richard O'Brien - Time Warp
@@ -206,7 +205,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Magnolia Park - Radio Reject
 *  Maroon 5 - Maps
 *  Mastodon - High Road
-*  Masked Wolf - Astronaut In The Ocean
+*  Masked Wolf - Astronaut in the Ocean
 *  Matchbox Twenty - 3AM
 *  Matchbox Twenty - Push
 *  Matchbox Twenty - Unwell
@@ -225,12 +224,12 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Natalie Imbruglia - Torn
 *  Natasha Bedingfield - Unwritten
 *  Neon Trees - Everybody Talks
-*  New Found Glory - All Downhill From Here
+*  New Found Glory - All Downhill from Here
 *  Newfane - Don't Let Her Go
-*  Nickelback - The Devil Went Down To Georgia
-*  Nine Days - Absolutely (Story Of A Girl)
-*  Nirvana - The Man Who Sold the World (Live)
-*  Nita Strauss ft. David Draiman of Disturbed - Dead Inside
+*  Nickelback - The Devil Went Down to Georgia
+*  Nine Days - Absolutely (Story of a Girl)
+*  Nirvana - The Man Who Sold the World (Live from MTV Unplugged)
+*  Nita Strauss ft. David Draiman - Dead Inside
 *  Oasis - Champagne Supernova
 *  Of Mice & Men - Taste of Regret
 *  Of Mice & Men - Would You Still Be There
@@ -250,7 +249,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Paramore - Hard Times
 *  Paramore - This Is Why
 *  Peter Frampton - Show Me the Way (Live)
-*  Pierce the Veil - King For A Day (ft. Kellin Quinn)
+*  Pierce the Veil - King For a Day (ft. Kellin Quinn)
 *  Pierce the Veil - Pass the Nirvana
 *  Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Big Rig
 *  Player - Baby Come Back
@@ -270,7 +269,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Romantics, The - What I Like About You
 *  Rupert Holmes - Escape (The Piña Colada Song)
 *  Rush - Freewill (Vault Edition)
-*  Sam Hunt - Body Like A Back Road
+*  Sam Hunt - Body Like a Back Road
 *  Sammy Hagar - I Can't Drive 55
 *  Scorpions - Rock You Like a Hurricane
 *  Seether ft. Amy Lee - Broken
@@ -282,14 +281,14 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Sheryl Crow - Soak Up the Sun
 *  Sia - Chandelier
 *  Simple Minds - Don't You (Forget About Me) %
-*  Simple Plan & State Champs - Where I Belong feat. We The Kings
+*  Simple Plan & State Champs - Where I Belong (ft. We The Kings)
 *  Skid Row - 18 and Life
 *  Skid Row - I Remember You
 *  Skid Row - The Gang's All Here
 *  Skillet - Feel Invincible
 *  Slayer - Angel of Death
 *  Sleep Token - The Summoning
-*  Sleeping With Sirens ft. Spencer Chamberlain of Underoath - Crosses
+*  Sleeping With Sirens ft. Spencer Chamberlain - Crosses
 *  Slipknot - The Devil In I
 *  Spiritbox - Secret Garden
 *  Staind - Outside
@@ -297,27 +296,28 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Steely Dan - Peg
 *  Steely Dan - Reelin' In the Years
 *  Stephen Sanchez - Until I Found You
-*  Steppenwolf - Born to be Wild
+*  Steppenwolf - Born to Be Wild
 *  Stone Temple Pilots - Wicked Garden %
+*  Stray Cats - Rock This Town
 *  Taking Back Sunday - A Decade Under the Influence
-*  Taking Back Sunday - Cute Without The 'E' (Cut From the Team)
+*  Taking Back Sunday - Cute Without the 'E' (Cut from the Team)
 *  Ted Nugent - Stranglehold
-*  Teenage Wrist - Earth Is A Black Hole
+*  Teenage Wrist - Earth Is a Black Hole
 *  Temple of the Dog - Hunger Strike
 *  Third Eye Blind - Jumper
 *  Three Days Grace - Never Too Late
 *  Tom Petty and the Heartbreakers - Don't Do Me Like That
 *  Tonic - If You Could Only See
 *  Toto - Africa
-*  Toto - Hold The Line
+*  Toto - Hold the Line
 *  Twenty One Pilots - Heathens
 *  Twenty One Pilots - Stressed Out
 *  Twisted Sister - I Wanna Rock
 *  Twisted Sister - We're Not Gonna Take It
 *  UB40 - Red Red Wine
 *  Van Halen - Ain't Talkin' 'Bout Love
-*  Van Halen - And The Cradle Will Rock...
-*  Van Halen - Dance The Night Away
+*  Van Halen - And the Cradle Will Rock...
+*  Van Halen - Dance the Night Away
 *  Van Halen - Hot for Teacher (2x option available)
 *  Van Halen - Runnin' with the Devil
 *  Van Halen - Unchained
@@ -333,7 +333,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Weezer - Africa
 *  Weezer - Dope Nose
 *  Weezer - The End of the Game
-*  Whitney Houston - I Wanna Dance With Somebody (Who Loves Me)
+*  Whitney Houston - I Wanna Dance with Somebody (Who Loves Me)
 *  Wheatus - Teenage Dirtbag (2020)
 *  Wild Cherry - Play That Funky Music
 *  Winger - Seventeen
