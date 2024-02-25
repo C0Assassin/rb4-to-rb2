@@ -9,6 +9,13 @@ Instructions on how to convert properly with Onyx are in the Onyx.txt file.
 
 Instructions on how to pull properly are in the instructions.txt file.
 
+
+@@Every song has been converted either through two methods, auto generation and hand conversions (Hand conversions are still a work in progress, and don't have all songs available.)
+Auto generated conversions use Onyx, and are just that. Automatically converted. They do not carry the real venue events or lipsyncing.
+Hand conversions are converts done by hand, and have all the proper meta data/lipsync/venue/and details from the real RB4 package.@@
+
+Below is an extensive list of everything thats been hand converted:
+
 ## Disc Songs Completed (65/65):
 All Rock Band 4 disc songs are playable.
 
@@ -32,6 +39,7 @@ Current progress of Rivals songs.
 ## RB4 DLC:
 The following DLC is available too: (% = recreational animations, mogg, and/or lipsync)
 (An Ultimate CON is still a RB1/2 CON file, but will still load keys or pro instruments when loaded into RB3.)
+
 
 *  "Weird Al" Yankovic - My Own Eyes
 *  AC/DC - Shot In The Dark
@@ -97,6 +105,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Bruno Mars - 24k Magic
 *  Bruno Mars - Locked Out Of Heaven
 *  Bush - Glycerine
+*  Calling, The - Wherever You Will Go
 *  Capital Cities - Safe and Sound
 *  Chainsmokers, The ft. Halsey - Closer
 *  Chainsmokers, The & Coldplay - Something Just Like This
@@ -120,6 +129,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Depeche Mode - Enjoy the Silence
 *  Depeche Mode - People Are People
 *  Dexys Midnight Runners - Come On Eileen
+*  Dido - Thank You
 *  Dinosaur Pile-Up - Back Foot
 *  Disturbed - Immortalized
 *  Disturbed - The Sound of Silence
