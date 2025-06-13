@@ -341,6 +341,7 @@ The following DLC is available too: (% = recreational animations, mogg, and/or l
 *  Weeknd, The ft. Daft Punk - Starboy
 *  Weeknd, The - The Hills
 *  Weezer - Africa
+
 *  Weezer - Dope Nose
 *  Weezer - The End of the Game
 *  Whitney Houston - I Wanna Dance with Somebody (Who Loves Me)
